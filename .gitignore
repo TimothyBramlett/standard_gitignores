@@ -1,3 +1,9 @@
+# Pycharm folder
+.idea
+
+# My virtual environment naming scheme
+venv*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
